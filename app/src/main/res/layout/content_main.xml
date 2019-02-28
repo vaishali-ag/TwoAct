@@ -37,6 +37,6 @@
             android:ems="10"
             android:gravity="clip_horizontal|center"
             android:inputType="textMultiLine"
-            tools:text="message" />
+            android:text="Message" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
