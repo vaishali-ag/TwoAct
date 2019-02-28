@@ -6,4 +6,13 @@
     android:layout_height="match_parent"
     tools:context=".act2">
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="154dp"
+        android:layout_height="125dp"
+        android:layout_marginStart="128dp"
+        android:layout_marginTop="228dp"
+        android:text="TextView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </android.support.constraint.ConstraintLayout>
